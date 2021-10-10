@@ -6,6 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvpb0t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🌱 I’m currently learning: C#, python and JAVA
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
