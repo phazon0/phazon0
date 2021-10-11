@@ -13,5 +13,6 @@
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
 - 😄 Pronouns: gang/member
-- ⚡ Fun fact: ye
-
+- ⚡ Fun fact: Russia has a larger surface area than Pluto.
+- ⚡ Fun fact: 111,111,111 x 111,111,111 = 12,345,678,987,654,321
+- ⚡ Fun fact: Australia is wider than the moon.
