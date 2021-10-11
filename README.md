@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)
 
 
-- 🌱 I’m currently learning: C#, python and JAVA
+- 🌱 I’m currently learning: C#, python, html, php, CSS and JAVA
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
 - 😄 Pronouns: gang/member
