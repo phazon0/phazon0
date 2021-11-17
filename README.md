@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning: C#, python, html, php, CSS and JAVA
-- 🔏 I´m currently working on B0TWARE B2
+- 🔏 I´m currently working on B0TWARE B2/Artemis.dev
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
 - 😄 Pronouns: gang/member
