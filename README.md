@@ -9,11 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)
 
 
-- 🌱 I’m currently learning: C#, python, html, php, CSS and JAVA
+- 🌱 I’m currently learning: C#, python, php, and java
 - 🔏 I´m currently working on B0TWARE B2/Artemis.dev
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
-- 😄 Pronouns: gang/member
 - ⚡ Fun fact: Russia has a larger surface area than Pluto.
-- ⚡ Fun fact: 111,111,111 x 111,111,111 = 12,345,678,987,654,321
-- ⚡ Fun fact: Australia is wider than the moon.
+
