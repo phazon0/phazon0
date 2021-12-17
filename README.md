@@ -5,7 +5,7 @@
 
 # Bolibompa dev #
 
-- 🌱 I’m currently learning: C#, python, php, and java
+- 🌱 I’m currently learning: Java and some other stuff
 - 🔏 I´m currently working on Artemis.dev and Provision 
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
