@@ -1,5 +1,4 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvpb0t)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)
 
