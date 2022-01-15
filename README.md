@@ -5,8 +5,7 @@
 # Bolibompa dev #
 
 - 🌱 I’m currently learning: Java and some other stuff
-- 🔏 I´m currently working on Artemis.dev and Provision 
+- 🔏 I´m currently working on Artemis.dev and Wraith B1 
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
-- ⚡ Fun fact: Russia has a larger surface area than Pluto.
 
