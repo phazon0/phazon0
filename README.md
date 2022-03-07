@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)<br>
 ![pvpb0t's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvpb0t&?count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvpb0t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvpb0t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
