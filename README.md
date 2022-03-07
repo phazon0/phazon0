@@ -22,7 +22,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<details>
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
@@ -33,7 +32,6 @@
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
 </a>
 </p>
-</details>
 
 <h1 align='center'><i>BYE</i></h1>
 
