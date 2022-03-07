@@ -4,7 +4,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)<br>
-![pvpb0t's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvpb0t&?count_private=false&theme=radical)<br>
+![pvpb0t's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvpb0t&?count_private=true&theme=radical)<br>
 Alot of actionscript and angelscript from Drakens Värld deobf<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvpb0t&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 
