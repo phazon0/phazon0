@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
 </a>&ensp;
 <a href="https://github.com/pvpb0t/Drakens-Varld-SOURCE">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=PortalLogger&show_owner=true&theme=react" />
 </a>
 </p>
 
