@@ -3,7 +3,7 @@
 # Bolibompa dev #
 
 
-![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)<br>
 ![pvpb0t's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvpb0t&?count_private=true&show_icons=true&theme=radical)
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
