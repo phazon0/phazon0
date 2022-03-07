@@ -3,9 +3,10 @@
 # Bolibompa dev #
 
 
-![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)<br>
 Alot of actionscript and angelscript from Drakens Värld deobf<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvpb0t&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)<br>
+<br>
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
