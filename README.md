@@ -12,24 +12,14 @@
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
 
-### - Languages and Tools...
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/pvpb0t/pvpb0t/blob/main/intellij-logo.png?raw=true" alt="intellij" style="vertical-align:top; margin:4px">
-</p>
-
-<summary> 💥 Working on </summary>
+<summary> 💥 Cool projects </summary>
 <br>
 <p align="center">
-<a href="https://github.com/pvpb0t/PortalLogger">
+<a href="https://github.com/pvpb0t/Drakens-Varld-SOURCE">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Drakens-Varld-SOURCE&show_owner=true&theme=react" />
 </a>&ensp;
-<a href="https://github.com/pvpb0t/Drakens-Varld-SOURCE">
+<a href="https://github.com/pvpb0t/PortalLogger">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=PortalLogger&show_owner=true&theme=react" />
 </a>
 </p>
