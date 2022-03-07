@@ -20,6 +20,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/pvpb0t/pvpb0t/blob/main/IntelliJ_IDEA_Icon.svg.png?raw=true" alt="intellij" style="vertical-align:top; margin:4px">
 </p>
 
 <summary> 💥 Working on </summary>
