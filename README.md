@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'><i>BYE</i></h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
