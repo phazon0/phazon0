@@ -2,6 +2,7 @@
 
 # Bolibompa dev #
 
+<img align='right' src='https://github.com/pvpb0t/pvpb0t/blob/main/flux.png?raw=true' width='350"'>
 
 Alot of actionscript and angelscript from Drakens Värld deobf<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvpb0t&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -14,7 +15,6 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 - 🔏 I´m currently working on Artemis.dev and Wraith B1 
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
-<img src='https://github.com/pvpb0t/pvpb0t/blob/main/flux.png?raw=true' width='350"'>
 
 
 <summary> 💥 Cool projects </summary>
