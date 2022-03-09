@@ -14,7 +14,7 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 - 🔏 I´m currently working on Artemis.dev and Wraith B1 
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
-<img src='https://github.com/pvpb0t/pvpb0t/blob/main/flux.png?raw=true' width='150"'>
+<img src='https://github.com/pvpb0t/pvpb0t/blob/main/flux.png?raw=true' width='350"'>
 
 
 <summary> 💥 Cool projects </summary>
