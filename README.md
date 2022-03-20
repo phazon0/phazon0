@@ -25,7 +25,10 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 </a>&ensp;
 <a href="https://github.com/pvpb0t/PortalLogger">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=PortalLogger&show_owner=true&theme=react" />
-</a>
+</a><br>
+<a href="https://github.com/pvpb0t/3DS-Homebrew-Buildable">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=3DS-Homebrew-Buildable&show_owner=true&theme=react" />
+</a>&ensp;
 </p>
 
 <h1 align='center'><i>BYE</i></h1>
