@@ -12,7 +12,7 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 - 🌱 I’m currently learning: Java, C# and C/C++
-- 🔏 I´m currently working on Artemis.dev and Homebrew applications
+- 🔏 I´m currently working on Artemis.dev, Callisto and Homebrew applications
 - 💬 Ask me about: Block Game Cheating
 - 📫 How to reach me: Discord
 
