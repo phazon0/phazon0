@@ -28,9 +28,12 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 </a><br>
 <a href="https://github.com/pvpb0t/3DS-Homebrew-Buildable">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=3DS-Homebrew-Buildable&show_owner=true&theme=react" />
-</a>&ensp;
+</a>&ensp;<br>
         <a href="https://github.com/pvpb0t/FriendSystem">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=FriendSystem&show_owner=true&theme=react" />
+</a>&ensp;<br>
+<a href="https://github.com/pvpb0t/FriendSystem">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=keatsoo&repo=3ds-tic-tac-toe&show_owner=true&theme=react" />
 </a>&ensp;
 </p>
 
