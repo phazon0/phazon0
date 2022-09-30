@@ -14,6 +14,7 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 - 🌱 I’m currently learning: Java, C# and C/C++
 - 🔏 I´m currently working on Winter and a LWJGL project
 - 💬 Ask me about: Block Game Cheating
+- :smiling_face_with_three_hearts: Prounouns: Din/Fasha
 - 📫 How to reach me: Discord
 
 
