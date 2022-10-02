@@ -12,7 +12,7 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 - 🌱 I’m currently learning: Java, C# and C/C++
-- 🔏 I´m currently working on Winter and a LWJGL project
+- 🔏 I´m currently working on N3DS-Applications, Winter and a LWJGL project
 - 💬 Ask me about: Block Game Cheating
 - :smiling_face_with_three_hearts: Prounouns: Din/Fasha
 - 📫 How to reach me: Discord
