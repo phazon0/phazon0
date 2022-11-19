@@ -9,8 +9,6 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 ![](https://komarev.com/ghpvc/?username=pvpb0t&color=blueviolet)<br>
 <br>
 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-
 - 🌱 I’m currently learning: Java, C# and C/C++
 - 🔏 I´m currently working on N3DS-Applications, Winter and a LWJGL project
 - 💬 Ask me about: Block Game Cheating
@@ -23,19 +21,9 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 <p align="center">
 <a href="https://github.com/pvpb0t/Drakens-Varld-SOURCE">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Drakens-Varld-SOURCE&show_owner=true&theme=react" />
-</a>&ensp;
+</a>
 <a href=https://github.com/pvpb0t/SettingsSystem>
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=SettingsSystem&show_owner=true&theme=react" />
-</a><br>
-<a href="https://github.com/pvpb0t/3DS-Homebrew-Buildable">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=3DS-Homebrew-Buildable&show_owner=true&theme=react" />
-</a>&ensp;<br>
-        <a href="https://github.com/pvpb0t/FriendSystem">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=FriendSystem&show_owner=true&theme=react" />
-</a>&ensp;<br>
-<a href="https://github.com/keatsoo/3ds-tic-tac-toe">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=keatsoo&repo=3ds-tic-tac-toe&show_owner=true&theme=react" />
-</a>&ensp;
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Mystical-Engine&show_owner=true&theme=react" />
 </p>
 
 <h1 align='center'><i>BYE</i></h1>
