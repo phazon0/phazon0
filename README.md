@@ -22,7 +22,7 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 <a href="https://github.com/pvpb0t/Drakens-Varld-SOURCE">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Drakens-Varld-SOURCE&show_owner=true&theme=react" />
 </a>
-<a href=https://github.com/pvpb0t/SettingsSystem>
+<a href=https://github.com/pvpb0t/Mystical-Engine>
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Mystical-Engine&show_owner=true&theme=react" />
 </p>
 
