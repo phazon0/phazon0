@@ -10,7 +10,7 @@ Alot of actionscript and angelscript from Drakens Värld deobf<br>
 <br>
 
 - 🌱 I’m currently learning: Java, C# and C/C++
-- 🔏 I´m currently working on N3DS-Applications, Winter and a LWJGL project
+- 🔏 I´m currently working on NCP-Testing Plugin and Demonware
 - 💬 Ask me about: Block Game Cheating
 - :smiling_face_with_three_hearts: Prounouns: Din/Fasha
 - 📫 How to reach me: Discord
