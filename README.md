@@ -27,8 +27,6 @@
 
 ## 💥 Cool Projects
 
-## 💥 Cool Projects
-
 | [![Drakens-Varld](https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Drakens-Varld-SOURCE&show_owner=true&theme=react)](https://github.com/pvpb0t/Drakens-Varld-SOURCE) | [![Mystical-Engine](https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Mystical-Engine&show_owner=true&theme=react)](https://github.com/pvpb0t/Mystical-Engine) | [![Winter](https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Winter&show_owner=true&theme=react)](https://github.com/pvpb0t/Winter) |
 |:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 
