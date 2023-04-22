@@ -26,17 +26,15 @@
 - Discord
 
 ## 💥 Cool Projects
-<p align="center">
-<a href="https://github.com/pvpb0t/Drakens-Varld-SOURCE">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Drakens-Varld-SOURCE&show_owner=true&theme=react" />
-</a>
-<a href="https://github.com/pvpb0t/Mystical-Engine">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Mystical-Engine&show_owner=true&theme=react" />
-</a>
- <a href="https://github.com/pvpb0t/Winter">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Winter&show_owner=true&theme=react" />
-</a>
-</p>
+
+## 💥 Cool Projects
+
+| [![Drakens-Varld](https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Drakens-Varld-SOURCE&show_owner=true&theme=react)](https://github.com/pvpb0t/Drakens-Varld-SOURCE) | [![Mystical-Engine](https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Mystical-Engine&show_owner=true&theme=react)](https://github.com/pvpb0t/Mystical-Engine) | [![Winter](https://github-readme-stats-defcon27.vercel.app/api/pin/?username=pvpb0t&repo=Winter&show_owner=true&theme=react)](https://github.com/pvpb0t/Winter) |
+|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+
+
+
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
