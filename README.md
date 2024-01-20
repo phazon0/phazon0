@@ -1,5 +1,3 @@
-# Certified Software Developer 🚀
-
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pvpb0t&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
