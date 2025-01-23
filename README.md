@@ -1,6 +1,5 @@
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phazon0&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phazon0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phazon0&color=blueviolet)
