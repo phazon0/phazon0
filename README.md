@@ -4,7 +4,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phazon0&color=blueviolet)
 
-## Learning 📚
-- Java
-- C#
-- C/C++
